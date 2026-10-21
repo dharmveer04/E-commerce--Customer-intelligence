@@ -21,7 +21,7 @@ Dashboard](PoweBi_Screenshots/Sales_Performance.png)
 ### Page 2 --- Customer Intelligence
 
 ![Customer Intelligence
-Dashboard](PoweBi_Screenshots/Customer_intelligence.png)
+Dashboard](PoweBi_Screenshots/Customer_Intelligence.png)
 
 ### Page 3 --- Delivery & Customer Reviews
 
