@@ -16,7 +16,7 @@ and interactive Power BI dashboards.
 ### Page 1 --- Sales Performance
 
 ![Sales Performance
-Dashboard](PoweBi_Screenshots/Sales_Performance.png)
+Dashboard](Delivery&Customer_reviews/Sales_Performance.png)
 
 ### Page 2 --- Customer Intelligence
 
