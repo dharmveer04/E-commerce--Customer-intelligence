@@ -21,12 +21,12 @@ Dashboard](PoweBi_Screenshots/Sales_Performance.png)
 ### Page 2 --- Customer Intelligence
 
 ![Customer Intelligence
-Dashboard](powerbi/screenshots/02_customer_intelligence.png)
+Dashboard](powerbi/screenshots/Customer_intelligence.png)
 
 ### Page 3 --- Delivery & Customer Reviews
 
 ![Delivery and Customer Reviews
-Dashboard](powerbi/screenshots/03_delivery_customer_reviews.png)
+Dashboard](powerbi/screenshots/Delivery&Customer_reviews.png)
 
 ## Business Problem
 
@@ -434,11 +434,43 @@ ecommerce-customer-intelligence/
 
 ## Dataset Attribution
 
-Dataset: **Brazilian E-Commerce Public Dataset by Olist**, published on
-Kaggle. Follow the dataset's licence and platform terms when
-redistributing raw data. If unsure whether the raw files should be
-committed, publish code/documentation and link to the original dataset
-instead.
+## 📂 Dataset
+
+This project uses the **Brazilian E-Commerce Public Dataset by Olist**, which contains anonymized e-commerce order, customer, product, seller, payment, review, and delivery information.
+
+**Dataset source:** [Olist Brazilian E-Commerce Dataset — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+### Dataset Files
+
+The original dataset contains nine CSV files:
+
+- `olist_customers_dataset.csv` — Customer identifiers and location information.
+- `olist_geolocation_dataset.csv` — Brazilian ZIP-code geolocation data.
+- `olist_order_items_dataset.csv` — Order items, product prices, freight values, and sellers.
+- `olist_order_payments_dataset.csv` — Payment methods, installments, and payment amounts.
+- `olist_order_reviews_dataset.csv` — Customer review scores and review comments.
+- `olist_orders_dataset.csv` — Order status and purchase, approval, shipping, and delivery timestamps.
+- `olist_products_dataset.csv` — Product attributes and category information.
+- `olist_sellers_dataset.csv` — Seller identifiers and location information.
+- `product_category_name_translation.csv` — Portuguese-to-English product category translations.
+
+### How to Get the Data
+
+1. Open the Kaggle dataset link above.
+2. Sign in to Kaggle and download the dataset.
+3. Extract the CSV files.
+4. Place them in the project's `data/raw/` directory, or update the file paths in the notebooks to match your local folder structure.
+5. Follow the instructions in the notebooks and SQL scripts to prepare and analyze the data.
+
+**Note:** The raw CSV files are not included in this GitHub repository because of their size. Download the original dataset from Kaggle to reproduce the analysis.
+
+### Data Limitations
+
+- The dataset does not contain complete website clickstream events, so this project analyzes order and purchase behavior rather than a true website visitor-to-purchase funnel.
+- Item revenue is based on product prices and should not be interpreted as profit.
+- The dataset is historical; seasonal patterns describe the available period and do not guarantee future trends.
+- Relationships between delivery performance and review scores should be interpreted as associations, not proof of causation.
+
 
 ## Author
 
