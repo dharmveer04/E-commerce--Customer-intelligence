@@ -11,13 +11,12 @@ and interactive Power BI dashboards.
 
 ## Dashboard Screenshots
 
-After exporting the three report pages from Power BI, add the images to
-`powerbi/screenshots/` using the filenames below.
+
 
 ### Page 1 --- Sales Performance
 
 ![Sales Performance
-Dashboard](powerbi/screenshots/01_sales_performance.png)
+Dashboard](PoweBi_Screenshots/Sales_Performance.png)
 
 ### Page 2 --- Customer Intelligence
 
