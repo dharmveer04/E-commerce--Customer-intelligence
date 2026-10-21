@@ -23,7 +23,7 @@ and interactive Power BI dashboards.
 
 ### Page 3 --- Delivery & Customer Reviews
 
-![Delivery & Customer Reviews](powerBi_Screenshots/Delivery_Customer_Reviews.png)
+![Delivery & Customer Reviews](powerBi_Screenshots/Delivery&Customer_reviews.png)
 
 ## Business Problem
 
