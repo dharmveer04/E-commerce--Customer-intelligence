@@ -15,15 +15,15 @@ and interactive Power BI dashboards.
 
 ### Page 1 --- Sales Performance
 
-![Sales Performance](powerBI_Screenshots/Sales_Performance.png)
+![Sales Performance](powerBi_Screenshots/Sales_Performance.png)
 
 ### Page 2 --- Customer Intelligence
 
-![Customer Intelligence](powerBI_Screenshots/Customer_Intelligence.png)
+![Customer Intelligence](powerBi_Screenshots/Customer_Intelligence.png)
 
 ### Page 3 --- Delivery & Customer Reviews
 
-![Delivery & Customer Reviews](powerBI_Screenshots/Delivery_Customer_Reviews.png)
+![Delivery & Customer Reviews](powerBi_Screenshots/Delivery_Customer_Reviews.png)
 
 ## Business Problem
 
