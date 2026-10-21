@@ -16,17 +16,17 @@ and interactive Power BI dashboards.
 ### Page 1 --- Sales Performance
 
 ![Sales Performance
-Dashboard](Delivery&Customer_reviews/Sales_Performance.png)
+Dashboard](powerBi_Screenshots/Sales_Performance.png)
 
 ### Page 2 --- Customer Intelligence
 
 ![Customer Intelligence
-Dashboard](PoweBi_Screenshots/Customer_Intelligence.png)
+Dashboard](powerBi_Screenshots/Customer_Intelligence.png)
 
 ### Page 3 --- Delivery & Customer Reviews
 
 ![Delivery and Customer Reviews
-Dashboard](PoweBi_Screenshots/Delivery&Customer_reviews.png)
+Dashboard](powerBi_Screenshots/Delivery&Customer_reviews.png)
 
 ## Business Problem
 
