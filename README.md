@@ -1,7 +1,11 @@
 # E-Commerce Customer Intelligence & Revenue Growth
 
 **End-to-end Data Analytics Portfolio Project**\
-**Tools:** Python · SQL · Power BI · DAX\
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 **Dataset:** Brazilian E-Commerce Public Dataset by Olist
 
 This project analyses e-commerce sales performance, customer purchasing
