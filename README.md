@@ -8,6 +8,28 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
 **Dataset:** Brazilian E-Commerce Public Dataset by Olist
+## Dataset Attribution
+
+## 📂 Dataset
+
+This project uses the **Brazilian E-Commerce Public Dataset by Olist**, which contains anonymized e-commerce order, customer, product, seller, payment, review, and delivery information.
+
+**Dataset source:** [Olist Brazilian E-Commerce Dataset — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+### Dataset Files
+
+The original dataset contains nine CSV files:
+
+- `olist_customers_dataset.csv` — Customer identifiers and location information.
+- `olist_geolocation_dataset.csv` — Brazilian ZIP-code geolocation data.
+- `olist_order_items_dataset.csv` — Order items, product prices, freight values, and sellers.
+- `olist_order_payments_dataset.csv` — Payment methods, installments, and payment amounts.
+- `olist_order_reviews_dataset.csv` — Customer review scores and review comments.
+- `olist_orders_dataset.csv` — Order status and purchase, approval, shipping, and delivery timestamps.
+- `olist_products_dataset.csv` — Product attributes and category information.
+- `olist_sellers_dataset.csv` — Seller identifiers and location information.
+- `product_category_name_translation.csv` — Portuguese-to-English product category translations.
+
 
 This project analyses e-commerce sales performance, customer purchasing
 behaviour, cohort retention, delivery performance, and customer reviews.
@@ -434,27 +456,6 @@ ecommerce-customer-intelligence/
     totals.
 6.  Export each report page and add the PNGs to `powerbi/screenshots/`.
 
-## Dataset Attribution
-
-## 📂 Dataset
-
-This project uses the **Brazilian E-Commerce Public Dataset by Olist**, which contains anonymized e-commerce order, customer, product, seller, payment, review, and delivery information.
-
-**Dataset source:** [Olist Brazilian E-Commerce Dataset — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-
-### Dataset Files
-
-The original dataset contains nine CSV files:
-
-- `olist_customers_dataset.csv` — Customer identifiers and location information.
-- `olist_geolocation_dataset.csv` — Brazilian ZIP-code geolocation data.
-- `olist_order_items_dataset.csv` — Order items, product prices, freight values, and sellers.
-- `olist_order_payments_dataset.csv` — Payment methods, installments, and payment amounts.
-- `olist_order_reviews_dataset.csv` — Customer review scores and review comments.
-- `olist_orders_dataset.csv` — Order status and purchase, approval, shipping, and delivery timestamps.
-- `olist_products_dataset.csv` — Product attributes and category information.
-- `olist_sellers_dataset.csv` — Seller identifiers and location information.
-- `product_category_name_translation.csv` — Portuguese-to-English product category translations.
 
 ### How to Get the Data
 
